@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "react-bootstrap": "^1.5.1",
+    "react-image-crop": "^8.6.6"
+  }
+}
